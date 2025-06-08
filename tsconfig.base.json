@@ -16,6 +16,7 @@
     "baseUrl": ".",
     "paths": {
       "@nx-demo/feature-dashboard": ["libs/feature-dashboard/src/index.ts"],
+      "@nx-demo/ui-card": ["libs/ui-card/src/index.ts"],
       "@nx-demo/util-dtos": ["libs/util-dtos/src/index.ts"]
     }
   },
