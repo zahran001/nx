@@ -1,5 +1,5 @@
 {
-  "name": "data-access-dasboard",
+  "name": "data-access-dashboard",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
   "sourceRoot": "libs/data-access-dashboard/src",
   "prefix": "lib",

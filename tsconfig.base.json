@@ -15,7 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@nx-demo/data-access-dasboard": [
+      "@nx-demo/data-access-dashboard": [
         "libs/data-access-dashboard/src/index.ts"
       ],
       "@nx-demo/feature-dashboard": ["libs/feature-dashboard/src/index.ts"],

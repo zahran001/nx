@@ -1,3 +1,4 @@
-export function utilDtos(): string {
-  return 'util-dtos';
+	export interface CardDto {
+  description: string;
+  title: string;
 }

@@ -1,1 +1,1 @@
-export * from './lib/data-access-dasboard.component';
+export * from './lib/dashboard.service';
